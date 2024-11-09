@@ -1,4 +1,4 @@
-name: Como usar varáveis de ambiente 
+name: Como usar varáveis de ambiente - 1
 on:
   workflow_dispatch:
 env: 
